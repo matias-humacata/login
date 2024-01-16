@@ -11,3 +11,43 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Button */
+
+.my-button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 0.20cm;
+}
+.my-button:hover {
+  background-color: #45a049;
+}
+.my-button:active {
+  background-color: #3e8e41;
+}
+
+/* button logout */
+
+.my-buttonLo {
+  padding: 10px 20px;
+  background-color: #4485e8;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 0.20cm;
+}
+.my-buttonLo:hover {
+  background-color: #79abf6;
+}
+.my-buttonLo:active {
+  background-color: #79abf6;
+}
+
+.profile{
+  margin: 0.20cm;
+};
